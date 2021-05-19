@@ -1,9 +1,11 @@
 {
-    "token": {
-        "id": 0,
-        "description": "Тестовый токен для курсового проекта",
-        "image": "https://lh3.googleusercontent.com/47XW-fOyi5avB0BswoPkDLursXZ3uSDtd7JY7ZeGl65JkFQMz580LGCx9NZsQevSlgMcPxdRE88tjb5XUZ9nBQVoGhJdiaKvb1qTMg=s0",
-        "name": "Departure NFT",
-        "price": "0.015 ETH"
-    }
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Тестовый токен для курсового проекта",
+            "image": "https://lh3.googleusercontent.com/47XW-fOyi5avB0BswoPkDLursXZ3uSDtd7JY7ZeGl65JkFQMz580LGCx9NZsQevSlgMcPxdRE88tjb5XUZ9nBQVoGhJdiaKvb1qTMg=s0",
+            "name": "Departure NFT",
+            "price": "0.015 ETH"
+        }
+    ]
 }
